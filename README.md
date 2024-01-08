@@ -23,4 +23,4 @@ Before using the Login Screen, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   [git clone [repository_url]](https://github.com/GivenMoreti/loginRegisterFormCustom)
+      https://github.com/GivenMoreti/loginRegisterFormCustom.git
